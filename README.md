@@ -1,6 +1,6 @@
 # Hello, I'm Isaac 👋
 
-You can also call me Froggo and i'm new to PHP and have skills in HTML and CSS. I'm passionate about web development and I want to work as a freelancer.
+You can also call me Froggo and i'm new on PHP and Python but i have some skills in HTML and CSS. I'm passionate about web development and I want to work as a freelancer.
 
 # What am I doing 🚀
 - I'm learning PHP and how to use MySQL to create dynamic and functional websites.
