@@ -8,7 +8,7 @@ You can also call me Froggo and i'm new to PHP and have skills in HTML and CSS. 
 - I look for freelance projects that can challenge me and help me grow as a developer.
 
 # How to contact me 📫
-You can follow me on Instagram and send me messages: [@Frogg_Dev.php]
+You can follow me on Instagram and send me messages: @froggodev.py 
 
 # Fun facts about me 😁
 
