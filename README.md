@@ -1,21 +1,20 @@
-# Hello, I'm Isaac 👋
+<div id="header" align="center">
+<img  src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" width=450 height=230/>
 
-You can also call me Froggo and i'm new on PHP and Python but i have some skills in HTML and CSS.I'm in love for back-end development and I want to work as a freelancer.
-
-# What am I doing 🚀
-- I'm learning PHP and how to use MySQL to create dynamic and functional websites.
-- I'm improving my skills in HTML and CSS, creating responsive and interactive websites that adapt to any device.
-- I look for freelance projects that can challenge me and help me grow as a developer.
-
-# How to contact me 📫
-You can follow me on Instagram and send me messages: @froggodev.py 
-
-# Fun facts about me 😁
-
-- I've loved coffee since I was a child, simply one of the best drinks ever!
-- I've loved programming since I was a child and I love turning my ideas into projects.
-- I speak Portuguese, English and a little French.
-- I love sitcons, like The Office and Community.
-- I also love Arduino, but I don't have it at home:(
   
-Thank you for visiting my profile. Have a great job! 😊
+## <h1>~ *Olá mundo!* Eu sou Isaac Alves (●'◡'●) </h1>
+ 
+</div>
+<br>
+ - 🌆 Meu Portifolio: ***[em produção]*** ;<br>                           
+  - 💻  Dev <b>Web</b>, programador de <b>bots</b>,<b> sites e automações</b> ;<br>
+  - 😁  Programação como Hobbie! *MAS* se quiser me chamar para um frela, <a href="https://www.instagram.com/froggodev.py/">aperta aqui</a> ;<br>
+  - 📖 fun fact:  Meu Username "Froggo" se dá pela minha paixão por sapos.<br>
+<div style="position:absolute; display: inline_block">
+  <img align="right" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="right" alt="Java Script" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <br><br>
+</div></div>
