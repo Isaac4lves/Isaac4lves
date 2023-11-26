@@ -1,20 +1,17 @@
-<div id="header" align="center">
-<img  src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif" width=450 height=230/>
+## HELLO WORLD!
+✍️Tecnico em Informatica 2/3 <br>
+💻Aprendendo:
+ - Python 🐍
+ - Java ☕
+    
+ 📂Repositorios que eu gosto :
+  - <a href="https://github.com/Isaac4lves/pomodoro">Pomodoro Site</a>
+  - <a href="">Undefined</a>
+  - <a href="">Undefined</a>
 
-  
-## <h1>~ *Olá mundo!* Eu sou Isaac Alves (●'◡'●) </h1>
- 
-</div>
+✉️Como me encontrar:<a href="https://www.instagram.com/froggodev.py/">Aqui</a>
 <br>
- - 🌆 Meu Portifolio: ***[em produção]*** ;<br>                           
-  - 💻  Dev <b>Web</b>, programador de <b>bots</b>,<b> sites e automações</b> ;<br>
-  - 😁  Programação como Hobbie! *MAS* se quiser me chamar para um frela, <a href="https://www.instagram.com/froggodev.py/">aperta aqui</a> ;<br>
-  - 📖 fun fact:  Meu Username "Froggo" se dá pela minha paixão por sapos.<br>
-<div style="position:absolute; display: inline_block">
-  <img align="right" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Java Script" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <br><br>
-</div></div>
+### Ouvindo Agora ->
+<br>
+
+[![Spotify-Playing-Now](https://spotify-github-profile.vercel.app/api/view?uid=gg7pgxsmiiuids60w9k50yl2e&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
