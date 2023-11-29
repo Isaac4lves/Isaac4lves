@@ -6,9 +6,9 @@
  - Java ☕
     
  📂Repositorios que eu gosto :
+  - <a href="">Code Challenger Generator</a>
+  - <a href="https://github.com/Isaac4lves/CodigosAvulsos">Codigos Avulsos</a>
   - <a href="https://github.com/Isaac4lves/pomodoro">Pomodoro Site</a>
-  - <a href="">Undefined</a>
-  - <a href="">Undefined</a>
 
 ✉️Como me encontrar:<a href="https://www.instagram.com/froggodev.py/">Aqui</a>
 <br>
