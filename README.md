@@ -1,11 +1,15 @@
 ## HELLO WORLD!
 ✍️Tecnico em Informatica 2/3 <br>
-💻Aprendendo:
- - C++ 💿
- - Python 🐍
- - Java ☕
-    
- 📂Repositorios que eu gosto :
+💾Já sei:
+> - Python 🐍
+> - JavaScript🟡
+  <br>
+  
+💻Aprendendo: <br>
+> - C++ 💿 
+<br>
+
+ ## 📂Repositorios que eu gosto :
   - <a href="https://github.com/Isaac4lves/CodigosAvulsos">Codigos Avulsos</a>
   - <a href="https://github.com/Isaac4lves/pomodoro">Pomodoro Site</a>
   - <a href="">Empty...</a>
