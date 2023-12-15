@@ -1,12 +1,6 @@
 ## HELLO WORLD!
 ✍️Tecnico em Informatica 2/3 <br>
-💾Já sei:
-> - Python 🐍
-> - JavaScript🟡
-  <br>
-  
-💻Aprendendo: <br>
-> - C++ 💿 
+🟦🐀Golang 
 <br>
 
  ## 📂Repositorios que eu gosto :
