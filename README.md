@@ -1,6 +1,7 @@
 ## HELLO WORLD!
 ✍️Tecnico em Informatica 2/3 <br>
 🟦🐀Golang 
+🐍🟩Python
 <br>
 
  ## 📂Repositorios que eu gosto :
