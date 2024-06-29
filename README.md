@@ -1,8 +1,4 @@
 ## HELLO WORLD!
-✍️Tecnico em Informatica 2/3 <br>
-🟦🐀Golang <br>
-🐍🟩Python
-<br>
 
  ## 📂Repositorios que eu gosto :
   - <a href="https://github.com/Isaac4lves/CodigosAvulsos">Codigos Avulsos</a>
