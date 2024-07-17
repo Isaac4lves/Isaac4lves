@@ -7,9 +7,5 @@ Sou um adolescente que, de vez em quando e com a ajuda de um bom café, aparece 
 - Empty...
 
 ---
-
-### 🎧 Ouvindo Agora:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gg7pgxsmiiuids60w9k50yl2e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 ---
 
