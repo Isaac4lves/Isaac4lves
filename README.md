@@ -1,6 +1,14 @@
-## 👋 HELLO WORLD!
-Sou um adolescente que de vez em quando (com a ajuda de um bom café) aparece por aqui com algum commit diferente e de qualidade duvidosa. Sinta-se à vontade para explorar o que tenho por aqui.
+# @Isaac4lves
 
+Estudante de técnico em informática no 2° ano do curso. Tento sempre fazer coisas por fora do colégio, e aqui é onde guardo algumas delas. De vez em quando, apareço por aí com algum commit duvidoso...
 
----
+## ⭐ Projetos Favoritos:
+* [**Blog Pessoal**](https://hwprint.vercel.app/) :
+Blog pessoal onde posto textos sobre experiências em tecnologia e também abordo alguns assuntos off-topic.
+                   
+* [**C.R.I.S API**](https://github.com/Isaac4lves/C.R.I.S-API) :
+Não é exatamente uma API, mas sim um script que realiza scrapping no site C.R.I.S para a criação de fichas de RPG de mesa.
 
+</br>
+
+![LeetCode stats](https://leetcard.jacoblin.cool/Isaacandrade)
