@@ -9,6 +9,9 @@ Blog pessoal onde posto textos sobre experiências em tecnologia e também abord
 * [**C.R.I.S API**](https://github.com/Isaac4lves/C.R.I.S-API) :
 Não é exatamente uma API, mas sim um script que realiza scrapping no site C.R.I.S para a criação de fichas de RPG de mesa.
 
+* [**Fontes Paranormais**](https://github.com/Isaac4lves/Fontes-Ordem-Paranormal.git) :
+Um site para gerar aquivos png com textos de fontes personalizadas do RPG "Ordem Paranormal"
+
+
 </br>
 
-![LeetCode stats](https://leetcard.jacoblin.cool/Isaacandrade)
