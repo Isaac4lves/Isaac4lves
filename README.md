@@ -1,17 +1,24 @@
-# @Isaac4lves
 
-Estudante de técnico em informática no 2° ano do curso. Tento sempre fazer coisas por fora do colégio, e aqui é onde guardo algumas delas. De vez em quando, apareço por aí com algum commit duvidoso...
+<h1 align="center">  Olá, sou o <i>@Isaac4lves</i> </h1>
+</br>
 
-## ⭐ Projetos Favoritos:
-* [**Blog Pessoal**](https://hwprint.vercel.app/) :
-Blog pessoal onde posto textos sobre experiências em tecnologia e também abordo alguns assuntos off-topic.
-                   
-* [**C.R.I.S API**](https://github.com/Isaac4lves/C.R.I.S-API) :
-Não é exatamente uma API, mas sim um script que realiza scrapping no site C.R.I.S para a criação de fichas de RPG de mesa.
-
-* [**Fontes Paranormais**](https://github.com/Isaac4lves/Fontes-Ordem-Paranormal.git) :
-Um site para gerar aquivos png com textos de fontes personalizadas do RPG "Ordem Paranormal"
-
+## Histórico Escolar
+#### 👨‍🎓 2023 / 2025 | Informática integrado ao ensino médio - Instituto Federal do Tocantins. 
 
 </br>
+
+## ⭐ Projetos Favoritos:
+
+[![Dados AssimilaçãoRPG](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=ASRPG-dices&theme=dracula)](https://github.com/Isaac4lves/ASRPG-dices)
+
+[![Fontes Paranormais](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=Fontes-Ordem-Paranormal&theme=dracula)](https://github.com/Isaac4lves/Fontes-Ordem-Paranormal)
+
+---
+
+<table align="center">
+  <td>
+    <a href="https://isaacandrade.vercel.app/" target="_blank">📌VISITE MEU BLOG PESSOAL </a>
+    </td>
+</table>
+
 
