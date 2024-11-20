@@ -1,6 +1,5 @@
 
-<h1 align="center">  Olá, sou o <i>@Isaac4lves</i> </h1>
-</br>
+<h1 align="center"> Olá, sou o <i>@Isaac4lves</i> </h1>
 
 ## Histórico Escolar
 #### 👨‍🎓 2023 / 2025 | Informática integrado ao ensino médio - Instituto Federal do Tocantins. 
