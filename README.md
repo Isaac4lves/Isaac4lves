@@ -17,6 +17,7 @@
 
 
 ## ⭐ Projetos Favoritos:
+[![Isso Vence Pedra?](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=isso-vence-pedra&theme=dracula)](https://github.com/Isaac4lves/isso-vence-pedra)
 
 [![Dados AssimilaçãoRPG](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=ASRPG-dices&theme=dracula)](https://github.com/Isaac4lves/ASRPG-dices)
 
