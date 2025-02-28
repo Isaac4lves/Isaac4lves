@@ -18,7 +18,7 @@
 
 <table align="center">
   <td>
-    <a href="https://isaacandrade.vercel.app/" target="_blank">📌VISITE MEU PORTIFÓLIO </a>
+    <a href="https://isaacandrade.vercel.app/" target="_blank">📌VISITE MEU BLOG </a>
     </td>
 </table>
 
