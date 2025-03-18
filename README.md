@@ -1,25 +1,7 @@
 
 <h1 align="center"> Olá, sou o <i>@Isaac4lves</i> </h1>
 
-- ✏️ Cursando o 3° do técnico de informática integrado ao ensino médio
-- 📖 Inglês Intermediário
-
-## Histórico Acadêmico
-#### 👨‍🎓 2023 - 2025 | Informática integrado ao ensino médio - Instituto Federal do Tocantins. 
-
-</br>
-
-## Linguagens/frameworks
-<div align="center">
-<img src="https://skillicons.dev/icons?i=javascript,python,django,scss,nodejs,express" width={100}/><br>
-</div>
-
----
-
-<table align="center">
-  <td>
-    <a href="https://isaacandrade.vercel.app/" target="_blank">📌VISITE MEU BLOG </a>
-    </td>
-</table>
+Curso **informática integrado ao ensino médio**, estou no 3° ano e estudo programação desde março de 2023. Gosto muito de *rádios*, *música* e de *jogos* (Retro, TCG, RPG), caso também goste, recomendo visitar meu <a href="https://isaacandrade.vercel.app/" target="_blank">site pessoal</a>.
+- Aprendendo `Java`
 
 
