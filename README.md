@@ -1,7 +1,20 @@
+## Opa, sou o Isaac 👋
 
-<h1 align="center"> Olá, sou o <i>@Isaac4lves</i> </h1>
+Atualmente estou no 3º ano do Técnico em Informática integrado ao Ensino Médio no **Instituto Federal do Tocantins**.
 
-Curso **informática integrado ao ensino médio**, estou no 3° ano e estudo programação desde março de 2023. Gosto muito de *rádios*, *música* e de *jogos* (Retro, TCG, RPG), caso também goste, recomendo visitar meu <a href="https://altplustabb.vercel.app/" target="_blank">site pessoal</a>.
-- Aprendendo `Java`
+Gosto de trabalhar com **front-end**, mas também me viro bem no **back-end**, principalmente usando **Node.js com Express**. Curto criar interfaces bonitas e responsivas com **HTML**, **CSS**, **JavaScript** e **Bootstrap**. Também já desenvolvi APIs e integrei com bancos de dados como **SQLite**.
 
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+---
 
