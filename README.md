@@ -19,8 +19,8 @@ Gosto de trabalhar com **front-end**, mas também me viro bem no **back-end**, p
 ---
 
 ## Projetos
-[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=blog-alttab)](https://github.com/Isaac4lves/blog-alttab)
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=blog-alttab&theme=dark)](https://github.com/Isaac4lves/blog-alttab)
 
-[![Isso Vence Pedra?](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=isso-vence-pedra)](https://github.com/Isaac4lves/isso-vence-pedra)
+[![Isso Vence Pedra?](https://github-readme-stats.vercel.app/api/pin/?username=Isaac4lves&repo=isso-vence-pedra&theme=dark)](https://github.com/Isaac4lves/isso-vence-pedra)
 
 ---
